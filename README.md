@@ -3,7 +3,6 @@
 ## Table of Contents
 
 * [Project Overview](#project-overview)
-* [Dashboard Features](#dashboard-features)
 * [Key KPIs](#key-kpis)
 * [Visualizations](#visualizations)
 * [Insights](#insights)
@@ -71,9 +70,7 @@ Main data preparation steps performed:
 
 ## Visualizations
 
-### Dashboard Overview
-
-![COPD Dashboard](Dashboard_Screenshot.png)
+![COPD Dashboard](dashboard-preview.png)
 
 ### Key Dashboard Components
 
